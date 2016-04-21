@@ -1,3 +1,3 @@
-# Lecture-Note
+# Note
 ==============
-lecture note for courses
+
