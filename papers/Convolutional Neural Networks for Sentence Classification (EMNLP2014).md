@@ -12,6 +12,4 @@
 #### 생각 ####
 - cnn이 filter를 학습하면서 구조적 분석을 잘 하는 듯.
 
-#### [논문링크](http://www.aclweb.org/anthology/D14-1181) ####
-
-#### [돌아가기](https://github.com/stanlee5/Note/blob/master/Papers-summary.md) ####
+#### [논문링크](http://www.aclweb.org/anthology/D14-1181), [돌아가기](https://github.com/stanlee5/Note/blob/master/Papers-summary.md) ####
