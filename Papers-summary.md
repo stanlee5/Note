@@ -16,5 +16,7 @@
 
 #### [Distributed Representations of Sentences and Documents (ICML2014)](https://github.com/stanlee5/Note/blob/master/papers/Distributed%20Representations%20of%20Sentences%20and%20Documents%20(ICML2014).md) ####
 
+#### [InfoGAN - Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (NIPS2016)](https://github.com/stanlee5/Note/blob/master/papers/InfoGAN%20-%20Interpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets%20(NIPS2016).md)####
+
 
 
