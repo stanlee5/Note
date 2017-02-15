@@ -1,13 +1,6 @@
 ## Name ##
 #### 읽은 날짜 : 1111 ####
 #### 개요 ####
-개요
 #### 동기 ####
-동기
-#### 방법 ####
-- 1
-- 2
 #### 생각 ####
-- 1
-- 2
 #### [논문링크](google), [목록으로](https://github.com/stanlee5/Note/blob/master/Papers-summary.md) ####
