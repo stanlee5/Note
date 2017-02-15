@@ -1,5 +1,5 @@
 ### A Neural Transducer (NIPS 2016) ####
-날짜 : 2016.12
+읽은 날짜 : 2016.12
 
 #### 개요 ####
 보다 일반적인 형태의 rnn language 모델 제안
