@@ -1,4 +1,4 @@
-### A Neural Transducer (NIPS 2016) ####
+## A Neural Transducer (NIPS 2016) ###
 읽은 날짜 : 2016.12
 
 #### 개요 ####
