@@ -1,6 +1,6 @@
 ## Convolutional Neural Networks for Sentence Classification (EMNLP2014) ##
 
-### 날짜 : 2016.06 ### 
+#### 날짜 : 2016.06 ####
 
 ### 개요 : CNN을 활용한 sentence classification ### 
 
