@@ -12,3 +12,5 @@
 #### 생각 ####
 - Dynamic programming을 이용한 부분에서 매우 오랜 시간이 걸려서, TPU 등이 꼭 필요할 것 같음
 - 2.매우 흥미로운 논문임
+
+#### [논문링크](https://arxiv.org/abs/1511.04868), [목록으로](https://github.com/stanlee5/Note/blob/master/Papers-summary.md) ####
