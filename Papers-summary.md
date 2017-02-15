@@ -1,4 +1,4 @@
-### [논문 추가](https://github.com/stanlee5/Note/edit/master/papers/00.form.txt) ###
+### [논문 추가](https://github.com/stanlee5/Note/new/master/papers), [양식](https://github.com/stanlee5/Note/edit/master/papers/00.form.txt) ###
 
 #### [A Neural Transducer (NIPS 2016)](https://github.com/stanlee5/Note/blob/master/papers/A%20Neural%20Transducer%20(NIPS%202016).md) ####
 
