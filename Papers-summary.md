@@ -1,9 +1,6 @@
-### [논문 추가]
-(https://github.com/stanlee5/Note/new/papers) ###
+### [논문 추가](https://github.com/stanlee5/Note/new/papers) ###
 
-### [A Neural Transducer (NIPS 2016)]
-(https://github.com/stanlee5/Note/blob/master/papers/A%20Neural%20Transducer%20(NIPS%202016).md)###
-
+### [A Neural Transducer (NIPS 2016)](https://github.com/stanlee5/Note/blob/master/papers/A%20Neural%20Transducer%20(NIPS%202016).md)###
 
 ### Auto-encoding variational bayes (ICLR 2014) ###
 -
