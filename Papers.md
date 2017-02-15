@@ -25,7 +25,7 @@
 
 ### Convolutional Neural Network Architectures for Matching Natural Language Sentences (NIPS 2014)
 
-### Convolutional Neural Networks for Sentence Classification (EMNLP2014) ###
+### [Convolutional Neural Networks for Sentence Classification (EMNLP2014)](https://github.com/stanlee5/Note/blob/master/papers/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification%20(EMNLP2014).md) ###
 - 날짜 : 2016.06
 
 - 개요 : CNN을 활용한 sentence classification
