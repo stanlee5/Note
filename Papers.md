@@ -1,5 +1,5 @@
 * A Neural Transducer (NIPS 2016)
--    
+- 일반적인 형태의 rnn language 모델 생성.
 * Auto-encoding variational bayes (ICLR 2014)
 
 * Coherent Dialogue with Attention-based Language Models (AAAI 2017)
